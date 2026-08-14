@@ -1,0 +1,42 @@
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT 
+    c.id,
+    c.fullname,
+    c.shortname,
+    cc.id AS category_id,
+    cc.name AS category_name
+FROM mdl_course c
+LEFT JOIN mdl_course_categories cc 
+    ON c.category = cc.id
+WHERE c.shortname = 'D2_2526_QTKD';
+"
+
+
+
+
+F005_2526DHS 58
+F006_2526QTKD 37
+F007_2526OTO 40
+F008_2526CĐTCTM 57
+F009_2526TĐH 45
+F010_2526ĐĐT 43
+F011_2526CNNL 46
+F012_2526DH 48
+F013_2526DL 50
+F014_2526KS 51
+F015_2526TCKT 49
+F016_2526ĐD 47
+F017_2526XD 41
+F018_TLĐ1_2526CNTT 42
+F019_Đ2_2526_CNTT 347
+F020_Đ2_2526_QTKD 348
+
+
+
+### chay back_up
+./backup_course.sh 42
+
+
+
+
+D:\Realstate\AAADongA_skill\server\key_vao_srv_linux\privatekey_lms.ppk

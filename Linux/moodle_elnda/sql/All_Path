@@ -1,0 +1,25 @@
+
+###file config 
+/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/config.php 
+
+
+&&&& thumuc upload-backup
+/var/www/elnda_eaut_e_usr/data/www/moodledata/Backup/
+
+
+
+/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/theme/academi/
+/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/theme/academi/templates/                                     /*  giao diện     */
+
+  
+  
+  
+/* điều chỉnh mầu sắc navar */  
+  nano /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/theme/academi/style/custom.css
+
+
+
+'file' => 'frontpage.php',
+
+
+

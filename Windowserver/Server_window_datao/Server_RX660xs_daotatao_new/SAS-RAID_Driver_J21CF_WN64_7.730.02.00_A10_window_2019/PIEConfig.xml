@@ -1,0 +1,44 @@
+<PIEConfig SchemaVersion="1.5">
+	<ComponentTypes>
+		<ComponentType>DRVR</ComponentType>
+	</ComponentTypes>
+	<Runtime>
+		<OperatingSystem>win</OperatingSystem>
+	</Runtime>
+	<Plugins>
+		<Plugin type="0" description="Inventory" timeout="60">
+			<Startfile>driverie.exe</Startfile>
+			<CliToStdout>
+				<Command>driverie.exe -i</Command>
+			</CliToStdout>
+			<CliToFile>
+				<Command>driverie.exe -i -o inv.xml</Command>
+				<Output>inv.xml</Output>
+			</CliToFile>
+			<Modules>
+				<Module>driverie.exe</Module>
+			</Modules>
+		</Plugin>
+		<Plugin type="1" description="Execution" timeout="900">
+			<Startfile>driverie.exe</Startfile>
+			<CliToStdout>
+				<Command>driverie.exe -u</Command>
+			</CliToStdout>
+			<CliToFile>
+				<Command>driverie.exe -u -o update.xml</Command>
+				<Output>update.xml</Output>
+			</CliToFile>
+			<CliforceToStdout>
+				<Command>driverie.exe -u</Command>
+			</CliforceToStdout>
+			<CliforceToFile>
+				<Command>driverie.exe -u -o update.xml</Command>
+				<Output>update.xml</Output>
+			</CliforceToFile>
+			<Modules>
+				<Module>driverie.exe</Module>
+			</Modules>
+		</Plugin>
+	</Plugins>
+	<Info identifier="47c2313a-72a4-4c11-8e49-d7e47d271340" folderName="Driver"></Info>
+</PIEConfig>

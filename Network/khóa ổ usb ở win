@@ -1,0 +1,72 @@
+🧰 CÁCH GỠ WRITE-PROTECTED CHO Ổ DISK 1 (USB)
+Bước 1. Mở Command Prompt (Admin)
+
+Nhấn Start → gõ cmd → chuột phải chọn Run as administrator.
+
+Bước 2. Vào DiskPart
+
+Nhập:
+
+diskpart
+
+Bước 3. Xem danh sách ổ
+
+list disk
+Đảm bảo thấy:
+
+mathematica
+Sao chép mã
+Disk 0   Online   238 GB
+Disk 1   Online   931 GB
+(đúng như bạn gửi ảnh).
+
+Bước 4. Chọn ổ USB
+bash
+Sao chép mã
+select disk 1
+DiskPart sẽ báo:
+
+Disk 1 is now the selected disk.
+
+Bước 5. Xem thuộc tính hiện tại
+r
+Sao chép mã
+attributes disk
+Nếu thấy:
+
+Read-only : Yes
+thì đúng là bị khóa ghi.
+
+Bước 6. Xóa thuộc tính chỉ đọc
+arduino
+Sao chép mã
+attributes disk clear readonly
+Nếu thành công, nó sẽ báo:
+
+Disk attributes cleared successfully.
+
+Bước 7. Thoát DiskPart
+bash
+Sao chép mã
+exit
+Bước 8. Thử ghi lại dữ liệu
+Vào File Explorer → chép thử 1 file nhỏ vào USB xem còn lỗi không.
+
+
+
+🔒 Cách 1 — Khóa bằng DiskPart (giống như bạn vừa mở, nhưng ngược lại)
+
+Mở Command Prompt (Admin)
+
+diskpart
+list disk
+select disk 1
+attributes disk set readonly
+exit
+
+
+💡 Sau đó mọi thao tác ghi, xóa, format trên USB sẽ bị chặn với thông báo:
+
+The disk is write-protected.
+
+Muốn mở lại → attributes disk clear readonly.

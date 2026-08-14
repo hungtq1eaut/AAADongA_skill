@@ -1,0 +1,16 @@
+
+  
+============================================================================
+#1xóa ngay:trashdir – Thùng rác Moodle 
+
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/trashdir/*
+
+
+# 2xóa các file tamp
+
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/cache/*
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/localcache/*
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/sessions/*
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/temp/*
+
+

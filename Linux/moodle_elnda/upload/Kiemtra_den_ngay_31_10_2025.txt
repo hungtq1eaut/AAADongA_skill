@@ -1,0 +1,66 @@
+ FLE124                           | Tiếng Anh nâng cao 1                                                                    | Khoa Ngôn Ngữ Anh                             |  830.21 |
+ EL3213                           | EL3213 - Kỹ năng Đọc 3                                                                  | Khoa Ngôn Ngữ Anh                             |  759.14 |
+ FLE122                           | Tiếng Anh cơ bản 2 - Basic English 2                                                    | Danh mục học liệu điện tử                     |  338.18 |
+ FLE 121                          | Tiếng Anh Cơ bản 1 - Basic English 1                                                    | Danh mục học liệu điện tử                     |  227.54 |
+ EL3226                           | Dịch Viết 2_EL3226_K14                                                                  | Danh mục học liệu điện tử                     |   66.78 |
+ EL3224                           | EL3224 - Dịch Viết 1                                                                    | Khoa Ngôn Ngữ Anh                             |   18.97 | 
+ 
+ 
+
+AE3213                           | Kỹ thuật vi xử lý                                                                       | Khoa Điện - Điện tử                           |  607.76 
+KTĐT                             | Kỹ thuật điện tử                                                                        | Danh mục học liệu điện tử                     |   15.29 |
+Chi tiết máy                     | ME2208 - Chi tiết máy                                                                   | Cơ điện tử                                    |   14.10 |
+Nhập môn Cơ điện tử              | ME2264-Nhập môn Cơ điện tử                                                              | Cơ điện tử                                    |   10.83 |
+
+
+IT2202                           | IT2202 Cơ sở dữ liệu                                                                    | Công nghệ thông tin                           |  207.76 |
+IT3214                           | IT3214 - An toàn bảo mật thông tin                                                      | Công nghệ thông tin                           |  115.55 |
+IT2203                           | IT2203 Thiết kế Web                                                                     | Công nghệ thông tin                           |   11.05 |
+IT3216                           | IT3216 - Nguyên lý hệ điều hành                                                         | Công nghệ thông tin                           |   19.98 |
+
+
+
+HHKCB                            | Hình họa tượng bán thân nam nữ (chì)                                                    | Danh mục học liệu điện tử                     |   98.41 |
+
+NU3217                           | Điều dưỡng cơ sở 2                                                                      | Điều Dưỡng                                    |   90.32 |  
+NU3225                           | NU3225 Chăm sóc sức khỏe người cao tuổi                                                 | Điều Dưỡng                                    |   72.45 |
+NU3250-K16                       | NU3250- Chăm sóc sức khỏe ngoại khoa 25-26                                              | Điều Dưỡng                                    |   11.42 |
+
+TM2224                           | Quản trị dịch vụ giải trí                                                               | Khoa du lịch                                  |   77.85 |
+
+
+MGT2223                          | MGT2223 Nguyên lý kế toán K9                                                            | Kế toán                                       |   60.72 |
+
+
+
+
+BM3220                           | BM3220 Quản trị chuỗi cung ứng                                                          | Viện Đào tạo và Hợp tác quốc tế               |   55.44 |
+BM2211                           | BM2211 Lãnh đạo và quản lý                                                              | Viện Đào tạo và Hợp tác quốc tế               |   52.37 |
+PM                               | BM3221_Project Management (Quản trị Dự ) - K13                                          | Viện Đào tạo và Hợp tác quốc tế               |   15.74 |
+
+
+FT3229 - K13                     | FT3229 - Công nghệ chế biến các sản phẩm từ sữa - K13                                   | Công nghệ Thực phẩm                           |   53.38 |
+FT3228 - K14                     | FT3228 - Tiếng anh chuyên ngành CNTP - K14                                              | Công nghệ Thực phẩm                           |   30.36 |
+Hành vi khách hàng               | MPP3214 - Hành vi khách hàng - K13                                                      | Công nghệ Thực phẩm                           |   17.98 |
+FT3249                           | FT3249 - Máy và thiết bị sản xuất, chế biến thực phẩm - K13                             | Công nghệ Thực phẩm                           |   10.79 |
+
+KTĐT k15                         | Kỹ thuật điện tử k15                                                                    | Khoa Cơ Khí                                   |   30.55 |
+ATLĐ&MTCN k15                    | An toàn lao động và môi trường công nghiệp K15                                          | Công nghệ Kĩ thuật Ô tô                       |   21.73 |
+KCĐCĐT                           | KẾT CẤU ĐỘNG CƠ ĐỐT TRONG                                                               | Công nghệ Kĩ thuật Ô tô                       |   21.21 |
+NLCGKL                           | Nguyên lý cắt gọt kim loại                                                              | Khoa Cơ Khí                                   |   18.38 |
+CNBD & SC ô tô                   | Công nghệ bảo dưỡng và sửa chữa ô tô k14                                                | Công nghệ Kĩ thuật Ô tô                       |   16.91 |
+TTKT                             | Thực tập kỹ thuật 1 (Thực tập động cơ)                                                  | Công nghệ Kĩ thuật Ô tô                       |   12.33 |
+
+
+
+KTHPT.12.K13.01.LT.C02C16BS.1_LT | Kinh tế học phát triển Lớp BS                                                           | Quản trị Kinh doanh                           |   16.08 |
+
+
+
+https://www.youtube.com/watch?v=FnQeCv5JWII
+
+
+
+
+
+

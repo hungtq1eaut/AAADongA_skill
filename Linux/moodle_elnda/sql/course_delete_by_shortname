@@ -1,0 +1,53 @@
+User này không có quyền vào $CFG->dataroot (thư mục moodledata). Cách chuẩn là chạy CLI bằng www-data (user web server – có quyền trên moodledata) và cấp quyền đọc mã nguồn + config.php cho www-data.
+Làm đúng theo các lệnh dưới đây (copy-paste tuần tự):
+==============================================================================================================================================================================================
+
+# ========== 0) CẤP QUYỀN TỐI THIỂU CHO www-data ĐỌC MÃ NGUỒN ==========
+apt-get update -y && apt-get install -y acl  # nếu setfacl chưa có
+
+# Cho phép www-data "traverse" tới thư mục code + đọc config.php
+set -e
+sudo setfacl -m u:www-data:rx /var/www/elnda_eaut_e_usr
+sudo setfacl -m u:www-data:rx /var/www/elnda_eaut_e_usr/data
+sudo setfacl -m u:www-data:rx /var/www/elnda_eaut_e_usr/data/www
+sudo setfacl -m u:www-data:rx /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn
+sudo setfacl -m u:www-data:r  /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/config.php
+
+# Đảm bảo www-data có quyền trên moodledata (dataroot) – đường dẫn theo config.php của bạn
+sudo setfacl -R -m u:www-data:rwx /var/www/elnda_eaut_e_usr/data/www/moodledata
+
+
+
+++++++++++++++++++++++++++++++ về sau cứ thế chạy ============================================================
+
+
+SHORT='Test'
+MOODLEDIR='/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn'
+
+# 1) Bật maintenance
+sudo -u www-data php "$MOODLEDIR/admin/cli/maintenance.php" --enable || true
+
+# 3) Xoá thật (tự dừng nếu trùng nhiều khoá)
+sudo -u www-data php -d memory_limit=1024M -d display_errors=1 -r "
+define('CLI_SCRIPT', true);
+require '$MOODLEDIR/config.php';
+require_once \$CFG->dirroot.'/course/lib.php';
+\$short='$SHORT';
+\$cs=\$DB->get_records('course',['shortname'=>\$short]);
+\$n=count(\$cs);
+if(\$n==0){fwrite(STDERR,\"Không tìm thấy course shortname='\$short'.\n\"); exit(1);}
+if(\$n>1){
+  fwrite(STDERR,\"Shortname '\$short' trùng \$n khoá. Dừng để tránh xoá nhầm.\n\");
+  foreach(\$cs as \$c){fwrite(STDERR,\"  id=\$c->id fullname=\$c->fullname\\n\");}
+  exit(2);
+}
+\$c=reset(\$cs);
+if(\$c->id==SITEID){fwrite(STDERR,\"Không được xoá Site home (id=1).\n\"); exit(3);}
+delete_course(\$c->id,false);
+fix_course_sortorder();
+echo \"ĐÃ XOÁ course id=\$c->id (shortname='\$short').\\n\";
+"
+
+# 4) Tắt maintenance & purge cache
+sudo -u www-data php "$MOODLEDIR/admin/cli/maintenance.php" --disable || true
+sudo -u www-data php "$MOODLEDIR/admin/cli/purge_caches.php"

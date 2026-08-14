@@ -1,0 +1,23 @@
+
+
+
+
+
+## Câu liệnh back up khóa học 
+php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/restore_backup.php \
+    --file=/var/www/elnda_eaut_e_usr/data/www/moodledata/Backup/backup_course.mbz \
+    --categoryid=1 \
+    --noadmins \
+    --nonusers \
+    --showdebugging=yes \
+    --shortname="0000_xd"
+
+
+
+
+php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/restore_backup.php \
+    --file=/var/www/elnda_eaut_e_usr/data/www/moodledata/sao_lưu-moodle2-course-1857-xd-20251014-0940.mbz \
+    --categoryid=1 \
+    --noadmins \
+    --showdebugging=yes \
+    --shortname="0000_xd"

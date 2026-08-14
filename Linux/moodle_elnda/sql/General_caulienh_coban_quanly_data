@@ -1,0 +1,40 @@
+
+###Nếu bạn không chắc thư mục Moodle nằm ở đâu, bạn có thể tìm bằng lệnh:
+
+find /var/www -name config.php
+
+
+#1 xem data, matkhau, data base  tại file config
+
++ sudo nano /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/config.php
+
+
+
+/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/
+
+ROOT="/var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn"
+
+==========================================================================
+
+#2xóa ngay:trashdir – Thùng rác Moodle (12G)
+
+rm -rf /var/www/elnda_eaut_e_usr/data/www/moodledata/trashdir/*
+
+
+
+
+
+
+/root/snap_backup.sh capnhat-6mon-theme-moodle-$(date +%F-%H%M%S)
+
+/root/snap_restore.sh  just-upload3g-moodle-2025-08-28-081214
+/root/snap_restore.sh just-theme-moodle-2025-08-26-063020 2025-08-25
+
+:  /root/snap_backup.sh chuan2_up_3g-moodle-$(date +%F-%H%M%S)
+
+
+
+:  /root/snap_backup.sh Finish_chuan1$(date +%F-%H%M%S)
+
+EAUT - Elearning
+kt-dbcl@eaut.edu.vn 234156@Ab

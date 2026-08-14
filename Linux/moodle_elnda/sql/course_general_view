@@ -1,0 +1,64 @@
+1) lấy khóa học Kèm tên danh mục (category)
+
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT  c.id,
+        c.shortname,
+        c.fullname,
+        COALESCE(cat.name,'(No category)') AS category,
+        IF(c.visible=1,'visible','hidden') AS visible,
+        FROM_UNIXTIME(c.timecreated)  AS created,
+        FROM_UNIXTIME(c.timemodified) AS updated,
+        COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0) AS bytes,
+        CONCAT(ROUND(COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0)/1024/1024,2),' MB') AS size_mb
+FROM mdl_course c
+LEFT JOIN mdl_course_categories cat ON cat.id = c.category
+LEFT JOIN mdl_context ctx ON ctx.instanceid = c.id AND ctx.contextlevel = 50
+LEFT JOIN mdl_files   f  ON f.contextid = ctx.id
+                         AND f.filename <> '.'
+                         AND f.component <> 'backup'   -- bỏ file backup
+WHERE c.id <> 1
+GROUP BY c.id, c.shortname, c.fullname, category, visible, created, updated
+ORDER BY cat.path, c.sortorder;"
+
+====================================================================================================================================================
+2)lấy khóa học Kèm tên danh mục (category) thêm điều kiện từ ngày đến ngày 
+
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT  c.id,
+        c.shortname,
+        c.fullname,
+        COALESCE(cat.name,'(No category)') AS category,
+        IF(c.visible=1,'visible','hidden') AS visible,
+        FROM_UNIXTIME(c.timecreated)  AS created,
+        FROM_UNIXTIME(c.timemodified) AS updated,
+        COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0) AS bytes,
+        CONCAT(ROUND(COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0)/1024/1024,2),' MB') AS size_mb
+FROM mdl_course c
+LEFT JOIN mdl_course_categories cat ON cat.id = c.category
+LEFT JOIN mdl_context ctx ON ctx.instanceid = c.id AND ctx.contextlevel = 50
+LEFT JOIN mdl_files   f  ON f.contextid = ctx.id
+                         AND f.filename <> '.'
+                         AND f.component <> 'backup'   /* bỏ file backup */
+WHERE c.id <> 1
+  AND c.timecreated BETWEEN UNIX_TIMESTAMP('2025-08-09 00:00:00')     /* năm tháng ngày */
+                       AND UNIX_TIMESTAMP('2025-09-25 23:59:59')
+GROUP BY c.id, c.shortname, c.fullname, category, visible, created, updated
+ORDER BY cat.path, c.sortorder;"
+
+
+
+========================================================================================================================================================
+3) Thêm số người đã ghi danh (đếm unique users, chỉ enrol đang hoạt động)
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT c.id,
+       c.shortname,
+       c.fullname,
+       COUNT(DISTINCT ue.userid) AS enrolled_users
+FROM mdl_course c
+LEFT JOIN mdl_enrol e ON e.courseid=c.id AND e.status=0
+LEFT JOIN mdl_user_enrolments ue ON ue.enrolid=e.id AND ue.status=0
+WHERE c.id<>1
+GROUP BY c.id, c.shortname, c.fullname
+ORDER BY enrolled_users DESC;"

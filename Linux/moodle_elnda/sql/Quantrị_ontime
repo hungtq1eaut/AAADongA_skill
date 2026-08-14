@@ -1,0 +1,51 @@
+
+&&&kiểm tra số user online trong 5 phút gần nhất: chuẩn 300 -5p   &&& cuối dòng có dòng tổng
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT id, username, firstname, lastname, last_access
+FROM (
+  SELECT u.id, u.username, u.firstname, u.lastname,
+         FROM_UNIXTIME(MAX(ula.timeaccess)) AS last_access
+  FROM mdl_user u
+  JOIN mdl_user_lastaccess ula ON u.id = ula.userid
+  WHERE ula.timeaccess > (UNIX_TIMESTAMP() - 10)
+  GROUP BY u.id, u.username, u.firstname, u.lastname
+) AS online
+UNION ALL
+SELECT NULL, CONCAT('TOTAL: ', COUNT(*), ' users'), NULL, NULL, NULL
+FROM (
+  SELECT u.id
+  FROM mdl_user u
+  JOIN mdl_user_lastaccess ula ON u.id = ula.userid
+  WHERE ula.timeaccess > (UNIX_TIMESTAMP() - 30)
+  GROUP BY u.id
+) AS c
+ORDER BY last_access DESC;
+"
+
+
+
+==============================================================================================================================================
+
+&&&&&&  cài để test đường mạng 
+sudo apt update
+sudo apt install speedtest-cli -y
+
+&&&&&&& Chạy kiểm tra tốc độ
+speedtest-cli
+
+==============================================================================================================================================
+
+## Bật chế độ bảo trì 
+sudo -u elnda_eaut_e_usr php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/maintenance.php --enable || true
+
+
+## Tắt chế độ bảo trì 
+sudo -u elnda_eaut_e_usr php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/maintenance.php --disable || true
+
+================================================================================================================================================
+## bỏ ẩn khóa tin học đại cương 
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "UPDATE mdl_course SET visible = 1 WHERE shortname='ITH1208_THDC';"
+
+ 

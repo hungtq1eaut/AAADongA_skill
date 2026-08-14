@@ -1,0 +1,7 @@
+
+## Bật chế độ bảo trì 
+sudo -u elnda_eaut_e_usr php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/maintenance.php --enable || true
+
+
+## Tắt chế độ bảo trì 
+sudo -u elnda_eaut_e_usr php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/maintenance.php --disable || true

@@ -1,0 +1,44 @@
+
++ 3Dchip tự cài driver 
+
++Window+R  // runcommand 
+
++ sau khi windowR: \\192.168.1.12    let get data
+
+
+
++ xem thong tin cau hinh : dxdiag , systeminfo
+
++ Vao network:  NCPA.CPL
+
++ Khac phuc window vao cmd voi vai tro Administrator  sfc /scannow
+
+
+1/Nhập lệnh:
+ipconfig /release // lệnh này dùng để xóa IP hiện tại của máy
+ipconfig /renew //lệnh này xin cấp IP mới từ Router
+
+2/Nhập lệnh: 
+ipconfig /flushdns
+
+3/Nhập lệnh này vào cmd: 
+Nếu bạn không thấy dòng Receive Window Autotuning ở trạng thái “Normal” như được hiển thị ở trên, hãy chạy lệnh sau:
+netsh int tcp set global autotuninglevel = normal
+
+4/Kiểm tra thông số Windows scaling heuristics: 
+Nhập lệnh: 
+netsh interface tcp set heuristics disabled
+
+5/nhập lệnh kiểm tra:
+netsh interface tcp show heuristics
+
+6/ Các liệnh comand line của server 2019 
+        - mở Powersell 
+           Bấm nút Start
+           Windows PowerShell → chạy bình thường
+
+           Windows PowerShell (Admin) → chạy với quyền admin (nên dùng nếu thao tác hệ thống)
+
+        - Kiểm tra số user: query user   
+
+ 

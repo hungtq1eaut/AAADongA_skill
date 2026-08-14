@@ -1,0 +1,18 @@
+Five years ago, Will Slade read about {1:MULTICHOICE:=an~a~the~some} organization called Earthwatch. Earthwatch finds volunteers {2:MULTICHOICE:=for~to~at~on} expeditions {3:MULTICHOICE:=to study~study~studied~studying} and explore different parts of the world.
+Will decided {4:MULTICHOICE:=to join~join~joining~joined} an expedition to study elephants in Africa. “I wasn’t sure about it before I went,” says Will. “But in fact, I really enjoyed every minute of the expedition. We slept {5:MULTICHOICE:=in~on~at~under} tents and we cooked our own food, but it was great {6:MULTICHOICE:=to see~see~saw~seeing} the elephants and all the other animals there.”
+“I’ve {7:MULTICHOICE:=enjoyed~enjoy~enjoying~to enjoy} all the expeditions, and I have seen some fantastic places. How {8:MULTICHOICE:=many~much~far~long} people have slept {9:MULTICHOICE:=on~in~to~above} a beach, climbed a mountain, or seen a whale? This world is such a beautiful place, but it’s disappearing fast. We have to learn more {10:MULTICHOICE:=about~of~at~in} it if we are going to save it.”
+
+
+
+Hướng dẫn giải thích từng phần:
+MULTICHOICE: Đây là lựa chọn dạng danh sách thả xuống. Mỗi lựa chọn được liệt kê và sử dụng dấu ~, trong đó đáp án đúng được đánh dấu bằng =.
+
+Ví dụ: {1:MULTICHOICE:=an~a~the~some} có đáp án đúng là an.
+SHORTANSWER: Nếu muốn người học tự nhập câu trả lời chính xác.
+
+Ví dụ: {2:SHORTANSWER:=for} yêu cầu nhập chính xác từ "for".
+NUMERICAL: Dùng cho câu trả lời là số.
+
+Ví dụ: {3:NUMERICAL:=5} yêu cầu người học nhập số 5.
+
+

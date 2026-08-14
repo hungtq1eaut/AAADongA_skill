@@ -1,0 +1,32 @@
+
+2. Thử chạy cron thủ công
+
+php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/cron.php
+
+
+
+3. Thiết lập cron chạy tự động mỗi phút
+
+sudo crontab -u www-data -e
+
+Sau đó thêm dòng này vào cuối file:
+
+* * * * * /usr/bin/php /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/admin/cli/cron.php >/dev/null 2>&1
+
+==============================================
+Giải thích:
+
+* * * * * → chạy mỗi phút
+
+/usr/bin/php → đường dẫn PHP CLI (thay bằng đúng đường dẫn bạn tìm ở bước 1)
+
+>/dev/null 2>&1 → ẩn toàn bộ output (để cron chạy ngầm, không gửi email log)
+
+Nhấn:
+
+Ctrl + O → lưu
+
+Enter
+
+Ctrl + X → thoát
+============================================

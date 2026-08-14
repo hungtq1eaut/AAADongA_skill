@@ -1,0 +1,20 @@
+cách  để có thể ping được 
+vào Inbound >> New Rule>> Custom>> Protocoport>> chọn ICMP4
+
+
+
+
+Kiểm tra tường lửa:
+netsh advfirewall firewall show rule name="Redis 6379"
+
+Kiểm tra 1 cổng cụ thể 
+netstat -ano | find “6379” | find "LISTENING"
+
+
+2. Mở cổng thông qua dòng lệnh (netsh)
+ netsh advfirewall firewall add rule name="Pub_Agents_80_IN" dir=in action=allow protocol=TCP localport=80
+ 
+3.Thêm rule cho phép cổng 6379: Nhập lệnh sau để thêm một inbound rule cho phép cổng 6379
+netsh advfirewall firewall add rule name="Allow 6379" protocol=TCP dir=in localport=6379 action=allow
+
+

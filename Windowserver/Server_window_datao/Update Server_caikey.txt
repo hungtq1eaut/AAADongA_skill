@@ -1,0 +1,11 @@
++Cách nhập key Window: vào cmd
+DISM /Online /Set-Edition:ServerStandard /ProductKey:NHVVB-Y4K6X-3VYYP-JDYR3-C39Q3 /AcceptEula
+
++ Update Server 
+
+Cmd > Sconfig>6>a 
+
+
+
+
+

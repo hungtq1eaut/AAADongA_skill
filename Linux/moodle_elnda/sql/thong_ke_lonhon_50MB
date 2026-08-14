@@ -1,0 +1,78 @@
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT
+    c.id,
+    c.shortname,
+    c.fullname,
+    cat.name AS category_name,
+    ROUND(COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0)/1024/1024, 2) AS size_mb
+FROM mdl_course c
+LEFT JOIN mdl_course_categories cat
+       ON cat.id = c.category
+LEFT JOIN mdl_context ctx_course
+       ON ctx_course.contextlevel = 50
+      AND ctx_course.instanceid  = c.id
+LEFT JOIN mdl_context ctx_any
+       ON (ctx_any.id = ctx_course.id
+           OR ctx_any.path LIKE CONCAT(ctx_course.path, '/%'))
+LEFT JOIN mdl_files f
+       ON f.contextid = ctx_any.id
+      AND f.filename <> '.'
+      AND f.component <> 'backup'
+      AND (f.filearea IS NULL OR f.filearea NOT IN ('draft','trash','recyclebin','temp'))
+WHERE c.id <> 1
+  AND c.timecreated BETWEEN UNIX_TIMESTAMP('2025-10-09 00:00:00')
+                        AND UNIX_TIMESTAMP('2026-09-25 23:59:59')  /* Từ ngày đến ngày */
+  /* Loại bỏ mọi course thuộc 'Danh mục khảo thí' hoặc danh mục con của nó */
+  AND NOT EXISTS (
+        SELECT 1
+        FROM mdl_course_categories ex
+        WHERE (ex.idnumber = 'Khaothi' OR ex.name = 'Danh mục khảo thí')
+          AND (cat.path = ex.path OR cat.path LIKE CONCAT(ex.path, '/%'))
+  )
+GROUP BY c.id, c.shortname, c.fullname, cat.name
+HAVING size_mb > 2                 /* Lớn hơn 2Mb */
+ORDER BY size_mb DESC, c.id ASC;
+"
+"
+
+================================================Sắp xếp theo tên danh mục =======================================================================================
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT
+    c.id,
+    c.shortname,
+    c.fullname,
+    cat.name AS category_name,
+    ROUND(COALESCE(SUM(CASE WHEN f.filename='.' THEN 0 ELSE f.filesize END),0)/1024/1024, 2) AS size_mb
+FROM mdl_course c
+LEFT JOIN mdl_course_categories cat
+       ON cat.id = c.category
+LEFT JOIN mdl_context ctx_course
+       ON ctx_course.contextlevel = 50
+      AND ctx_course.instanceid  = c.id
+LEFT JOIN mdl_context ctx_any
+       ON (ctx_any.id = ctx_course.id
+           OR ctx_any.path LIKE CONCAT(ctx_course.path, '/%'))
+LEFT JOIN mdl_files f
+       ON f.contextid = ctx_any.id
+      AND f.filename <> '.'
+      AND f.component <> 'backup'
+      AND (f.filearea IS NULL OR f.filearea NOT IN ('draft','trash','recyclebin','temp'))
+WHERE c.id <> 1
+  AND c.timecreated BETWEEN UNIX_TIMESTAMP('2025-10-09 00:00:00')
+                        AND UNIX_TIMESTAMP('2026-09-25 23:59:59')  /* Từ ngày đến ngày */
+  /* Loại bỏ mọi course thuộc 'Danh mục khảo thí' hoặc danh mục con của nó */
+  AND NOT EXISTS (
+        SELECT 1
+        FROM mdl_course_categories ex
+        WHERE (ex.idnumber = 'Khaothi' OR ex.name = 'Danh mục khảo thí')
+          AND (cat.path = ex.path OR cat.path LIKE CONCAT(ex.path, '/%'))
+  )
+GROUP BY c.id, c.shortname, c.fullname, cat.name
+HAVING size_mb > 2                 /* Lớn hơn 2Mb */
+ORDER BY cat.name ASC, size_mb DESC, c.id ASC;
+"
+
+
+
+=========###### Tính đến ngày 31/10=========================================
+

@@ -1,0 +1,26 @@
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e " viết cho tôi câu liệnh những user chưa được bổ nhiệm vai trò gì trong hệ thống
+
+======================================================================================================================================================
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT u.id, u.username, u.email
+FROM mdl_user u
+LEFT JOIN mdl_role_assignments ra ON ra.userid = u.id
+WHERE ra.id IS NULL;
+"
+
+
+
+=================cau lienh lay user giao vien xuat hien 2 lan ===================================================================================
+
+mysql -h localhost -u moodle -p'Namduyqa2009@' -D moodlelive -e "
+SELECT u.username, COUNT(*) AS so_lan
+FROM mdl_user u
+JOIN mdl_role_assignments ra ON ra.userid = u.id
+JOIN mdl_role r ON r.id = ra.roleid
+WHERE r.shortname = 'editingteacher'
+GROUP BY u.username
+HAVING so_lan >= 2;
+"
+
+======================================================================================================================================================================
