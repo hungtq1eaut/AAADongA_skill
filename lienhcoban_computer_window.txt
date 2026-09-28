@@ -9,7 +9,7 @@
 
 + xem thong tin cau hinh : dxdiag , systeminfo
 
-+ Vao network:  NCPA.CPL
++ Vao network:  NCPA.CPL, đổi tên máy: sysdm.cpl
 
 + Khac phuc window vao cmd voi vai tro Administrator  sfc /scannow
 
@@ -40,5 +40,9 @@ netsh interface tcp show heuristics
            Windows PowerShell (Admin) → chạy với quyền admin (nên dùng nếu thao tác hệ thống)
 
         - Kiểm tra số user: query user   
+
+7================ mở khóa. đóng khóa usb ======================
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\USBSTOR" /v Start /t REG_DWORD /d 4 /f      &&&& cmd administrator + chạy lệnh>> khóa 
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\USBSTOR" /v Start /t REG_DWORD /d 3 /f
 
  
