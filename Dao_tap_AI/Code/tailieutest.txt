@@ -1,0 +1,285 @@
+QUY ĐỊNH
+Tổ chức đào tạo trực tuyến tại Trường Đại học Công nghệ Đông Á
+(Ban hành kèm theo Quyết định số 168/QĐ-ĐHCNĐA ngày 09 tháng 03 năm 2026 của Hiệu trưởng Trường Đại học Công nghệ Đông Á)
+Chương I - QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy định này quy định về tổ chức đào tạo trực tuyến (ĐTTT) tại Trường Đại học Công nghệ Đông Á (sau đây gọi tắt là Trường) bao gồm: quy định chung; điều kiện để tổ chức ĐTTT; tổ chức quản lý ĐTTT; học liệu trong ĐTTT; quyền hạn và trách nhiệm của người dạy và người học; những hành vi bị cấm và xử lý vi phạm; kiểm tra, giám sát và chế độ báo cáo, lưu trữ; tổ chức thực hiện và điều khoản thi hành.
+2. Quy định này áp dụng đối với các đơn vị, cá nhân có liên quan đến quá trình tổ chức ĐTTT thuộc các trình độ và hình thức đào tạo tại Trường.
+3. Quy định này áp dụng đối với các học phần có nội dung thực hiện ĐTTT ở các trình độ đào tạo, hình thức đào tạo và các khóa học ngắn hạn của Trường.
+Điều 2. Giải thích từ ngữ
+Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:
+1. Đào tạo trực tuyến là hoạt động đào tạo (gồm hoạt động dạy, hướng dẫn, học tập, đánh giá) được tổ chức trên môi trường số thông qua hệ thống ĐTTT.
+2. Đào tạo trực tuyến đồng bộ là hoạt động ĐTTT, ở đó giảng viên và người học cùng tham gia các hoạt động đào tạo tại cùng một thời điểm (thời gian thực) trên cùng một không gian học tập.
+3. Đào tạo trực tuyến không đồng bộ là hoạt động ĐTTT, ở đó người học có thể chủ động tham gia các hoạt động ĐTTT trên cơ sở kế hoạch dạy học của giảng viên.
+4. Hệ thống đào tạo trực tuyến là hệ thống gồm các phần mềm, hệ thống học liệu và hạ tầng công nghệ thông tin cho phép quản lý và tổ chức đào tạo thông qua môi trường internet.
+5. Học liệu đào tạo trực tuyến là tập hợp các tài liệu và tài nguyên được thiết kế để hỗ trợ quá trình học tập, giảng dạy và nghiên cứu trong môi trường trực tuyến như: Giáo trình, bài giảng trực tuyến, hình ảnh và biểu đồ, tài liệu điện tử, tài liệu tham khảo, phần mềm và ứng dụng học tập, tài liệu hướng dẫn, phần mềm mô phỏng, thí nghiệm ảo, bài kiểm tra đánh giá.
+6. Hệ thống quản lý học tập (LMS - Learning Management System) là hệ thống phần mềm cho phép tổ chức, quản lý và triển khai các hoạt động ĐTTT từ lúc nhập học đến khi người học hoàn thành khóa học trực tuyến; giúp Trường theo dõi và quản lý quá trình học tập của người học; tạo ra môi trường dạy và học ảo; giúp giảng viên giao tiếp với người học trong việc giao bài tập, trợ giúp, giải đáp; giúp người học có thể theo dõi được tiến trình học tập, tham gia các nội dung học trực tuyến, kết nối với giảng viên và các người học khác để trao đổi, thảo luận bài học.
+7. Học phần đào tạo trực tuyến là học phần nằm trong chương trình đào tạo của Trường có nội dung được tổ chức giảng dạy, học tập toàn phần hoặc từng phần theo hình thức ĐTTT.
+8. Kịch bản dạy học là sự bố trí và sắp xếp các hoạt động của người học và người dạy theo phương thức trực tuyến hoặc trực tiếp nhằm đảm bảo thực hiện đúng đề cương chi tiết.
+9. Khóa học trực tuyến: là một tập hợp các hoạt động giảng dạy và học tập được tổ chức hoàn toàn hoặc một phần trên môi trường trực tuyến, có cấu trúc nội dung, lộ trình giảng dạy, học tập và đánh giá cụ thể nhằm đạt được các chuẩn đầu ra nhất định.
+10. Bài giảng điện tử: là một thành phần cốt lõi của học liệu số, bao gồm các slide, video bài giảng, hình ảnh, âm thanh và các yếu tố tương tác được thiết kế, dàn dựng theo một kịch bản dạy học cụ thể và được chuẩn hóa về mặt kỹ thuật để người học có thể tự học trên hệ thống ĐTTT.
+Điều 3. Nguyên tắc, yêu cầu chung trong đào tạo trực tuyến
+1. Phát huy tính chủ động, tự chịu trách nhiệm và trách nhiệm giải trình của Trường trong ĐTTT.
+2. Đào tạo trực tuyến phải bảo đảm chất lượng theo yêu cầu của CTĐT đã được Trường ban hành; quy trình, nội dung và chất lượng ĐTTT phải liên tục được cải thiện; luôn cập nhật công nghệ tiên tiến, phù hợp nhất để triển khai ĐTTT.
+3. Bảo đảm công bằng trong tiếp cận, tham gia các hoạt động ĐTTT, lấy lợi ích của người học làm trung tâm.
+4. Trường có thể tự đầu tư hoặc thuê dịch vụ công nghệ thông tin đối với hạ tầng kỹ thuật bảo đảm cho tổ chức triển khai ĐTTT; tuân thủ các quy định bảo đảm an toàn thông tin, an toàn thông tin cá nhân, an ninh mạng và sở hữu trí tuệ theo các quy định của pháp luật.
+5. Bảo đảm đáp ứng đầy đủ các yêu cầu tối thiểu theo quy định hiện hành về ĐTTT đối với giáo dục đại học, sau đại học của Bộ Giáo dục và Đào tạo và các quy định liên quan của Trường.
+6. Chính sách hỗ trợ điều kiện đặc thù: Nhà trường có cơ chế hỗ trợ đối với người học gặp khó khăn về thiết bị học tập, đường truyền internet hoặc có điều kiện kinh tế - xã hội đặc thù thông qua các hình thức: hỗ trợ thiết bị học tập tại thư viện, cung cấp không gian học tập tại các phòng máy vi tính của Trường, hoặc áp dụng các hình thức đánh giá thay thế phù hợp để đảm bảo quyền lợi và sự công bằng trong tiếp cận giáo dục.
+Điều 4. Nội dung và khối lượng đào tạo trực tuyến
+1. Hiệu trưởng quyết định học phần trong các CTĐT của Trường thực hiện ĐTTT trên cơ sở các quy định của Quy chế đào tạo các trình độ do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành và các quy chế, quy định hiện hành có liên quan của Trường.
+2. Khối lượng ĐTTT tối đa là 30% tổng khối lượng của CTĐT (trừ CTĐT từ xa).
+3. Trong các trường hợp thiên tai, dịch bệnh và các trường hợp đặc biệt khác, việc xác định học phần tổ chức ĐTTT do Hiệu trưởng quyết định dựa trên văn bản hướng dẫn của Bộ Giáo dục và Đào tạo và đề xuất của các đơn vị quản lý đào tạo.
+Chương II - ĐIỀU KIỆN ĐỂ TỔ CHỨC ĐÀO TẠO TRỰC TUYẾN
+Điều 5. Hệ thống phần mềm trong đào tạo trực tuyến
+1. Trường có thể sử dụng riêng hoặc kết hợp sử dụng giữa các phần mềm quy định tại Khoản 2, Khoản 3, Khoản 4, Khoản 5 Điều này;
+2. Phần mềm tổ chức ĐTTT đồng bộ có chức năng tối thiểu sau:
+a. Giúp người dạy tổ chức các hoạt động ĐTTT đồng bộ; hướng dẫn, giao nhiệm vụ học tập đồng thời cho tất cả người học tham dự trong cùng một không gian học tập thông qua kênh hình, kênh tiếng, kênh chữ, chuyển tải học liệu đào tạo đến người học.
+b. Giúp người học tham gia các hoạt động ĐTTT; tương tác, trao đổi thông tin theo thời gian thực với người dạy và những người học khác trong cùng một không gian học tập.
+3. Phần mềm tổ chức ĐTTT không đồng bộ có chức năng tối thiểu sau:
+a. Giúp người dạy lên kế hoạch ĐTTT không đồng bộ, chuyển tài liệu tới người học, giao nhiệm vụ học tập và kiểm tra, đánh giá kết quả học tập của người học; theo dõi và hỗ trợ người học khai thác nội dung học tập; tư vấn, hỗ trợ, trả lời câu hỏi và giải đáp thắc mắc của người học.
+b. Cho phép người học truy cập, khai thác nội dung học tập; thực hiện các hoạt động học tập và kiểm tra, đánh giá theo yêu cầu của người dạy; đặt câu hỏi và trả lời câu hỏi đối với người dạy và các người học khác trong cùng không gian học tập.
+c. Cho phép Trường quản lý hồ sơ, tiến trình học tập, kết quả học tập của người học và các hoạt động dạy của người dạy; ghi nhận một cách trung thực, chính xác quá trình học tập của từng người học; hỗ trợ quản lý các thông tin khác theo yêu cầu của Trường và cơ quan quản lý giáo dục.
+4. Phần mềm quản lý nội dung học tập trực tuyến bao gồm các chức năng như phần mềm tổ chức ĐTTT không đồng bộ (quy định tại Khoản 3 Điều này) và cho phép người dạy thiết kế nội dung học tập, học liệu ĐTTT; có cơ chế để liên thông hoặc chia sẻ hệ thống tài khoản người dùng đến phần mềm quản lý đào tạo của Trường.
+5. Phần mềm ĐTTT mở đại chúng (MOOC) bao gồm các chức năng như phần mềm tổ chức ĐTTT không đồng bộ (quy định tại Khoản 3 Điều này) và chức năng cung cấp đa dạng về nội dung và hình thức tổ chức khóa học trực tuyến; được áp dụng ĐTTT trên quy mô lớn về người học, người dạy, các cơ sở đào tạo của Trường.
+6. Yêu cầu về tích hợp và đồng bộ dữ liệu: Các hệ thống phần mềm quy định tại Điều này phải đảm bảo khả năng tích hợp và sử dụng chung hệ thống xác thực người dùng tập trung với hệ thống quản lý sinh viên và phần mềm quản lý đào tạo hiện tại của Trường. Việc đồng bộ dữ liệu phải đảm bảo chính xác, thống nhất và được thực hiện tự động định kỳ hoặc theo thời gian thực tùy theo yêu cầu quản lý của từng loại dữ liệu cụ thể. Danh mục dữ liệu bắt buộc đồng bộ tối thiểu bao gồm:
+- Dữ liệu định danh: Tài khoản người học, tài khoản người dạy, thông tin phân quyền truy cập.
+- Dữ liệu tổ chức đào tạo: Danh mục học phần, danh sách lớp học phần, thời khóa biểu. lịch thi trực tuyến.
+- Dữ liệu tiến trình và kết quả: Tiến độ học tập của người học, lịch sử nộp bài, điểm đánh giá thành phần và điểm thi kết thúc.
+- Dữ liệu nhật ký hệ thống (Log): Lịch sử truy cập, nhật ký hoạt động của người dùng và các phiên tương tác trên hệ thống để phục vụ công tác thanh tra, hậu kiểm và giải quyết khiếu nại.
+Điều 6. Nhân lực triển khai đào tạo trực tuyến
+1. Nhân lực triển khai ĐTTT gồm: Người dạy, cán bộ hỗ trợ học tập, cán bộ quản lý, cán bộ quản trị vận hành hệ thống, cán bộ thiết kế và sản xuất học liệu.
+2. Người dạy tham gia ĐTTT phải có kỹ năng ĐTTT: giảng dạy, quản lý, định hướng, hướng dẫn và giải đáp người học qua các hệ thống trực tuyến; sử dụng thành thạo phần mềm quản lý học tập và các phương tiện công nghệ thông tin phục vụ ĐTTT theo yêu cầu của Trường và phải đáp ứng đầy đủ các tiêu chuẩn người dạy theo quy định của Luật Giáo dục hiện hành, được tập huấn nghiệp vụ về giảng dạy và xây dựng học liệu theo phương thức ĐTTT và các quy định có liên quan.
+3. Cán bộ quản trị vận hành hệ thống phải am hiểu các hệ thống liên quan đến ĐTTT của Trường; được hướng dẫn, chuyển giao công nghệ để quản trị, vận hành hệ thống đảm bảo hoạt động ổn định, an toàn.
+4. Cán bộ thiết kế và sản xuất học liệu phải am hiểu quy trình thiết kế, quy trình sản xuất và kiểm duyệt học liệu ĐTTT; sử dụng thành thạo các công cụ liên quan để xây dựng học liệu ĐTTT.
+5. Cán bộ hỗ trợ học tập phải am hiểu các hoạt động, quy chế, quy định trong ĐTTT, thực hiện hướng dẫn người học biết cách tham gia và sử dụng các ứng dụng công nghệ thông tin trước khi tổ chức các khóa ĐTTT, theo dõi quản lý quá trình học tập của người học.
+Điều 7. Hạ tầng và an toàn thông tin đối với hệ thống đào tạo trực tuyến
+1. Hạ tầng hệ thống ĐTTT phải đáp ứng các yêu cầu:
+a. Hạ tầng của hệ thống ĐTTT phải đáp ứng các nhu cầu về quản lý, khai thác sử dụng cho các hoạt động ĐTTT; bảo đảm đủ băng thông, đủ năng lực máy chủ; đáp ứng các điều kiện về an toàn thông tin theo quy định.
+b. Kiểm soát chặt chẽ việc quản lý, vận hành, cài đặt các phần mềm/dịch vụ trên hệ thống máy chủ vật lý hoặc máy chủ ảo hóa (Cloud Server)
+c. Hệ thống máy chủ vật lý hoặc máy chủ ảo hóa phải đảm bảo được nguyên tắc luôn luôn sẵn sàng trước các nguy cơ khách quan như: cháy nổ, mất điện,...
+2. Giải pháp đảm bảo an toàn thông tin hệ thống ĐTTT:
+a. Trường phải triển khai giải pháp bảo đảm các quy định về an toàn thông tin mạng, sở hữu dữ liệu; khai thác, sử dụng dữ liệu và bảo vệ thông tin cá nhân trong ĐTTT.
+b. Thông tin, dữ liệu trên các phần mềm ĐTTT khi được lưu trữ, khai thác, trao đổi phải được đảm bảo tính hợp pháp, toàn vẹn, tin cậy và sẵn sàng.
+c. Các phần mềm ĐTTT có cơ chế ghi nhật ký hoạt động và cấp quyền xuất dữ liệu này cho người có thẩm quyền.
+d. Các máy chủ vật lý hoặc máy chủ ảo hóa phải có hệ thống giám sát tài nguyên, tài khoản truy cập, phiên truy cập và nhật ký truy cập.
+e. Các máy chủ vật lý hoặc máy chủ ảo hóa phải được bảo vệ bằng hệ thống tường lửa, phần mềm diệt virus chuyên dụng hoặc các cơ chế, dịch vụ tương đương.
+f. Dữ liệu trên máy chủ vật lý hoặc máy chủ ảo hóa phải được định kỳ sao lưu và lưu trữ an toàn. Cơ sở dữ liệu trên máy chủ vật lý hoặc máy chủ ảo hóa phải được cài đặt dự phòng và đồng bộ liên tục.
+Điều 8. Bảo đảm truy cập của người dùng
+1. Người dạy, người học phải được đảm bảo về thiết bị học trực tuyến, kết nối internet để tham gia các hoạt động ĐTTT.
+2. Trường có quy định hoặc hướng dẫn về trách nhiệm, quyền hạn người dùng khi truy cập, đăng nhập các phần mềm ĐTTT. Mỗi người dùng sử dụng hệ thống ĐTTT phải được cấp tài khoản đăng nhập với định danh chính thức và được phân quyền chỉ sử dụng các chức năng hệ thống tương ứng với vai trò, quyền hạn của mình.
+3. Phần mềm trong hệ thống ĐTTT có khả năng cảnh báo, báo cáo các phiên truy cập hoặc các tài khoản nghi ngờ hoặc các hành vi thao tác chức năng bất thường của người dùng cho cán bộ quản trị vận hành hệ thống được phân quyền. Cán bộ quản trị vận hành hệ thống có đầy đủ công cụ, chức năng để theo dõi, phân tích và khóa các tài khoản vi phạm.
+Điều 9. Bảo đảm chất lượng đào tạo trực tuyến
+Trường chịu trách nhiệm về chất lượng và thực hiện các giải pháp bảo đảm chất lượng ĐTTT, cụ thể:
+1. Có quy định để bảo đảm chất lượng ĐTTT theo yêu cầu của CTĐT và kiểm định chất lượng CTĐT theo quy định hiện hành của Bộ trưởng Bộ Giáo dục và Đào tạo và các quy định khác của Trường.
+2. Nội dung khóa học được thiết kế và rà soát cập nhật định kỳ theo quy định của Bộ Giáo dục và Đào tạo và của Trường, đảm bảo phù hợp với thực tiễn và nhu cầu của các bên liên quan.
+3. Có giải pháp hỗ trợ và trả lời yêu cầu của người dạy, người học; có cơ chế tiếp nhận và giải đáp ý kiến từ người dạy, người học và các tổ chức, cá nhân có liên quan để đo lường sự hài lòng của người sử dụng.
+4. Thường xuyên thực hiện các giải pháp cải thiện nâng cao chất lượng ĐTTT trên cơ sở ý kiến phản hồi của các bên liên quan và khuyến nghị của các tổ chức kiểm định.
+Điều 10. Sở hữu trí tuệ và bảo mật
+1. Học liệu ĐTTT do giảng viên/tổ chuyên môn biên soạn theo kế hoạch và được chi trả bằng kinh phí của Trường thuộc quyền sở hữu quyền tác giả của Trường(bao gồm các quyền tài sản: công bố, sao chép, phân phối và sử dụng học liệu). Giảng viên thực hiện xây dựng HLS là những người trực tiếp tạo ra sản phẩm được bảo hộ các quyền nhân thân theo Luật sở hữu trí tuệ.
+2. Trường có toàn quyền khai thác, sử dụng HLS này cho các CTĐT khác nhau, các khóa học MOOCs hoặc hoạt động liên kết đào tạo mà không cần xin phép lại tác giả, trừ trường hợp có thỏa thuận khác bằng văn bản.
+3. Hệ thống ĐTTT phải đảm bảo an toàn thông tin và bảo vệ dữ liệu cá nhân của người dạy và người học thông qua các biện pháp như xác thực danh tính, mã hóa dữ liệu và kiểm soát quyền truy cập,…Dữ liệu được bảo vệ bao gồm thông tin định danh, hình ảnh, âm thanh, lịch sử truy cập, dữ liệu từ hệ thống giám sát học/đánh giá trực tuyến và các dữ liệu cá nhân phát sinh trong quá trình sử dụng hệ thống.
+- Việc xử lý dữ liệu chỉ phục vụ công tác quản lý đào tạo, kiểm tra đánh giá và đảm bảo chất lượng. Không được sử dụng dữ liệu cho mục đích thương mại hoặc cung cấp cho bên thứ ba khi chưa có sự đồng ý của Trường hoặc theo yêu cầu của pháp luật.
+- Phòng Hệ thống thông tin có trách nhiệm thiết lập quy trình giám sát và ứng phó khẩn cấp khi xảy ra các sự cố mất an toàn thông tin hoặc lộ, lọt dữ liệu cá nhân theo quy định của pháp luật hiện hành.
+Chương III - TỔ CHỨC QUẢN LÝ ĐÀO TẠO TRỰC TUYẾN
+Điều 11. Học phần tổ chức đào tạo trực tuyến
+1. Các học phần có tổ chức ĐTTT được xác định trong từng CTĐT trên cơ sở đề xuất của các đơn vị quản lý đào tạo và các Khoa/Viện chuyên môn, được Hiệu trưởng phê duyệt.
+2. Các học phần chỉ được tổ chức ĐTTT khi đáp ứng đầy đủ các điều kiện về học liệu số và các điều kiện tổ chức đào tạo theo quy định của Nhà trường.
+3. Học phần tổ chức ĐTTT có thể là học phần ĐTTT toàn phần hoặc từng phần (kết hợp ĐTTT và trực tiếp). Tỷ lệ tổ chức ĐTTT trong mỗi học phần, mỗi CTĐT được thực hiện theo quy định của quy chế đào tạo tương ứng.
+Điều 12. Kế hoạch giảng dạy và học tập
+1. Trừ trường hợp khẩn cấp theo quy định hiện hành, kế hoạch giảng dạy của các học phần tổ chức ĐTTT nằm trong kế hoạch giảng dạy chung của học kỳ, năm học và công bố cho các bên liên quan trước khi bắt đầu mỗi học kỳ.
+2. Việc xây dựng thời khóa biểu căn cứ vào tiến độ học tập được quy định trong CTĐT, đảm bảo tuân thủ quy định của quy chế đào tạo của các trình độ, hình thức đào tạo hiện hành.
+Điều 13. Tổ chức đăng ký học tập
+1. Việc tổ chức đăng ký học tập đối với các học phần ĐTTT do Phòng QLĐT&ĐBCL phụ trách theo kế hoạch học tập của từng CTĐT.
+2. Quy trình đăng ký học tập được thực hiện theo Quy chế đào tạo các trình độ hiện hành.
+Điều 14. Tổ chức lớp học phần đào tạo trực tuyến
+1. Việc tổ chức lớp học trực tuyến thực hiện theo CTĐT đã được phê duyệt và Quy chế đào tạo các trình độ, hình thức đào tạo hiện hành của Trường.
+2. Phòng Hệ thống thông tin cung cấp tài khoản và hướng dẫn người dạy, người học cách thức tham gia hệ thống ĐTTT.
+3. Mọi hoạt động dạy học, đánh giá (bao gồm thảo luận, nộp bài, tương tác,…) phải được thực hiện và lưu lại minh chứng trên hệ thống LMS để làm căn cứ đánh giá và giải quyết khiếu nại.
+Điều 15. Đánh giá kết quả học tập
+1. Việc đánh giá kết quả học phần của những học phần ĐTTT được thực hiện theo quy định tại Quy định kiểm tra, đánh giá học phần hiện hành của Trường.
+2. Việc tổ chức thi kết thúc học phần được thực hiện theo hình thức trực tiếp, người học phải thi tập trung tại Trường. Các trường hợp được quy định tại Điều 4, Khoản 3 và các học phần được thiết kế ĐTTT toàn phần hoặc các khóa học ngắn hạn, Hiệu trưởng quyết định hình thức thi trực tuyến có giám sát (sử dụng công nghệ nhận diện và các phần mềm chống gian lận) để đảm bảo tính thuận tiện cho người học nhưng vẫn duy trì chất lượng đánh giá, đảm bảo tính khách quan, công bằng như hình thức thi trực tiếp.
+3. Đối với các hình thức đánh giá kết thúc học phần khác thực hiện theo quy định tại đề cương chi tiết học phần.
+Điều 16. Xử lý sự cố kỹ thuật và giải quyết khiếu nại về dữ liệu số
+1. Sự cố kỹ thuật hợp lệ là các tình huống khách quan làm gián đoạn quá trình học tập, kiểm tra hoặc thi trực tuyến như: mất điện diện rộng, mất kết nối internet từ nhà cung cấp, lỗi camera/thiết bị phần cứng không do lỗi người dùng, lỗi hệ thống LMS hoặc phần mềm thi của Trường.
+2. Người học khi gặp sự cố phải thông báo ngay cho giảng viên hoặc cán bộ hỗ trợ kỹ thuật và nộp minh chứng (ảnh chụp màn hình lỗi, xác nhận của nhà cung cấp dịch vụ...) trong vòng 24 giờ kể từ khi xảy ra sự cố. Phòng Hệ thống thông tin phối hợp với giảng viên phụ trách học phần căn cứ trên nhật ký hệ thống (log) và minh chứng người học cung cấp để xác định tính hợp lệ của sự cố.
+3. Cơ chế giải quyết:
+a. Trường hợp lỗi do hệ thống của Trường: Người học được tổ chức thi bù, làm bài bù hoặc được khôi phục dữ liệu làm bài mà không phải nộp thêm lệ phí.
+b. Trường hợp lỗi khách quan từ phía người học (có minh chứng hợp lệ): xem xét cho phép thi bù hoặc thực hiện hình thức đánh giá thay thế phù hợp.
+c. Trường hợp lỗi chủ quan (không có minh chứng, không báo cáo đúng hạn): Người học phải chịu trách nhiệm về kết quả học tập và thi cử theo quy định.
+4. Giải quyết tranh chấp: Khi có khiếu nại về việc nộp bài hoặc tham gia học tập, dữ liệu nhật ký hệ thống (log) và lịch sử tương tác trên LMS được sử dụng làm căn cứ pháp lý cao nhất để đối soát và ra quyết định cuối cùng.
+Điều 17. Công nhận kết quả học tập và chuyển đổi tín chỉ
+1. Học phần được dạy - học trên hệ thống ĐTTT của Trường và các hệ thống ĐTTT khác được xem xét công nhận kết quả học tập và chuyển đổi tín chỉ.
+2. Nguyên tắc và quy trình xét công nhận kết quả học tập và chuyển đổi tín chỉ được thực hiện theo Quy chế đào tạo của các trình độ đào tạo, hình thức đào tạo của Trường.
+Chương IV - HỌC LIỆU SỐ TRONG ĐÀO TẠO TRỰC TUYẾN
+Điều 18. Lựa chọn học phần để xây dựng học liệu số
+1. Tiêu chí lựa chọn học phần
+a. Học phần được lựa chọn có thể sử dụng chung cho nhiều chương trình đào tạo (CTĐT) của Trường.
+b. Ưu tiên lựa chọn các học phần trong khối kiến thức giáo dục đại cương, cơ sở cốt lõi ngành của các CTĐT mang đặc trưng của nhóm ngành/ngành đang triển khai đào tạo tại Trường để bảo đảm một số lượng lớn các sinh viên có thể đăng ký tham gia học.
+c. Khuyến khích lựa chọn các học phần có nội dung, kiến thức mới theo xu thế của thế giới dự báo có nhiều sinh viên quan tâm tham gia, các học phần phù hợp với các ngành, lĩnh vực của cách mạng công nghiệp 4.0, các học phần mới mang tính thời sự, có khả năng mở rộng và giảng dạy cho các CTĐT trong tương lai.
+2. Quy trình đề xuất và phê duyệt danh sách các học phần
+a. Phòng QLĐT&ĐBCL rà soát các học phần đang triển khai đào tạo tại Trường để đề xuất lựa chọn các học phần xuất hiện nhiều trong các CTĐT. Ưu tiên lựa chọn các học phần trong khối kiến thức giáo dục đại cương, cơ sở cốt lõi ngành của các CTĐT hoặc các học phần trong CTĐT có quy mô sinh viên theo học đông.
+b. Khoa/Viện chuyên môn đề xuất (theo Phụ lục 1) các học phần có nội dung, kiến thức mới theo xu thế của thế giới dự báo có nhiều người học quan tâm, các học phần mới mang tính thời sự, có khả năng mở rộng và ĐTTT trong tương lai.
+c. Trên cơ sở rà soát của Phòng QLĐT&ĐBCL và/hoặc Đề xuất của Khoa/Viện chuyên môn, Phòng QLĐT&ĐBCL tổng hợp danh sách (theo Phụ lục 2) các học phần đề xuất xây dựng học liệu số (HLS) cho ĐTTT trình Hiệu trưởng phê duyệt.
+Điều 19. Xây dựng học liệu số cho đào tạo trực tuyến
+1. Thành lập Tổ chuyên môn
+Khoa/Viện chuyên môn đề xuất danh sách tổ chuyên môn, giảng viên xây dựng HLS. Phòng QLĐT&ĐBCL tổng hợp, rà soát và trình Hiệu trưởng phê duyệt.
+2. Xây dựng học liệu số
+GV xây dựng học liệu số: chịu trách nhiệm chính cho việc xây dựng học liệu số.
+Tổ chuyên môn: rà soát, kiểm soát chất lượng; tư vấn, góp ý chuyên môn, phối hợp hỗ trợ trong quá trình xây dựng và số hóa; đánh giá từng bài giảng sau khi hoàn thiện HLS.
+a. Chuẩn bị tư liệu để xây dựng học liệu số
+- Chuẩn bị tư liệu bao gồm giáo trình, tài liệu phục vụ giảng dạy, các học liệu, các phần mềm dạy học, giáo cụ trực quan, mô hình, mô phỏng...
+- Sắp xếp các tư liệu theo một trình tự logic phù hợp với đề cương chi tiết và theo yêu cầu nội dung gói học liệu số bao gồm:
++ Bộ slide bài giảng;
++ Bộ tài liệu đọc;
++ Bộ video bài giảng theo kịch bản dạy học; Bộ video hướng dẫn bài tập, thực hành, thí nghiệm (nếu có);
++ Bộ câu hỏi tương tác; Bộ câu hỏi kết thúc chương, bộ câu hỏi đánh giá giữa kỳ, kết thúc khoá học;
++ Bài tập và hướng dẫn làm bài tập cho từng chương (bài tập, hướng dẫn làm bài tập);
++ Tài liệu học tập, tài liệu tham khảo được số hoá (tài liệu dạng PDF, video, đường link tài liệu…).
+b. Xây dựng nội dung học liệu và kịch bản giảng dạy
+- Tái cấu trúc đề cương chi tiết môn học để phù hợp với ĐTTT. Xây dựng cấu trúc các bài giảng theo từng chương/mục, giờ giảng.
+- Xây dựng nội dung các học liệu:
++ Xây dựng kịch bản giảng dạy.
++ Xây dựng slide cho từng bài học, tài liệu.
++ Thiết kế đồ họa, Infographic cho bài học, tài liệu.
++ Viết lời thuyết trình, lời giảng phù hợp với nội dung của slide giảng dạy.
++ Xây dựng chi tiết các hoạt động giảng dạy.
++ Dự kiến thời gian giảng dạy cho từng bài học, thời gian video cho từng bài học.
++ Xây dựng kịch bản hướng dẫn bài tập.
++ Xây dựng kịch bản hướng dẫn thí nghiệm, thực hành (nếu môn học/học phần yêu cầu).
++ Xây dựng bộ câu hỏi, hoạt động tương tác trong các video, bộ câu hỏi kiểm tra, đánh giá kết thúc chương/học phần.
+c. Số hóa bài giảng/ quay video, biên tập hoàn thiện các video bài giảng
+Giảng viên xây dựng HLS thực hiện. Tổ chuyên môn phối hợp thực hiện. Tổ kỹ thuật phối hợp để hỗ trợ số hóa bài giảng, biên tập hoàn thiện. Tổ kỹ thuật bao gồm cán bộ kỹ thuật hỗ trợ số hóa bài giảng, biên tập video và cán bộ chuyên trách phòng Hệ thống thông tin. Cán bộ kỹ thuật hỗ trợ số hóa bài giảng, biên tập video có thể là cán bộ đang phụ trách phòng Studio của Trường và/hoặc các cá nhân, đơn vị cung cấp dịch vụ kỹ thuật đáp ứng yêu cầu.
+- Xây dựng kịch bản kỹ thuật dựa trên kịch bản giảng dạy.
++ Tổ chuyên môn: hỗ trợ xây dựng kịch bản giảng dạy, trao đổi, thảo luận với nhóm kỹ thuật để xây dựng kịch bản quay video, tính toán thời gian từng video.
++ Tổ kỹ thuật: Chuẩn bị về kỹ thuật xây dựng bài giảng điện tử, trường quay, các thiết bị ghi hình, ghi tiếng (phục vụ quay trong studio/ trên phòng học mẫu/ giảng đường/ thực địa/ phòng thực hành, thí nghiệm …).
++Tổ kỹ thuật: Trao đổi, thống nhất kịch bản tổng thể để chuẩn bị quay video (thống nhất cụ thể 1 bài học sẽ được ghi hình, ghi tiếng ở những đâu, nội dung cụ thể).
+- Tổ chuyên môn, giảng viên, tổ kỹ thuật phối hợp để quay video bài giảng/ bài hướng dẫn thí nghiệm, thực hành: ghi hình, ghi tiếng của toàn bộ các bài giảng trong khoá học.
+- Tổ kỹ thuật: Biên tập audio, video, đồng bộ âm thanh với animation: Xử lý hậu kỳ, cắt, ghép, chỉnh sửa các video. Tổ chuyên môn, giảng viên phối hợp.
+- Kiểm tra kỹ thuật đối với toàn bộ video bài giảng, chỉnh sửa kỹ thuật để đảm bảo tiêu chí sư phạm và tiêu chí kỹ thuật.
+- Tổ kỹ thuật đóng gói, ban hành và kiểm soát nội dung bài giảng trên hệ thống đào tạo trực tuyến.
+Phân loại Video bài giảng theo các nhóm được liệt kê trong Bảng 1.
+Bảng 1. Phân loại video bài giảng theo nhóm (hệ số nhóm kG)
+- Nhóm 1 - Lý thuyết (kG = 1,0): chủ yếu sử dụng slide; giảng viên xuất hiện hoặc chỉ giảng/giải thích nội dung (voice-over); không cần thao tác thiết bị nhiều; hậu kỳ cơ bản (cắt ghép, chỉnh âm thanh).
+- Nhóm 2 - Hướng dẫn bài tập tính toán (kG = 1,3): viết bảng điện tử/các dạng thức tương đương; giải từng bước; chèn công thức, đồ thị; yêu cầu trình bày rõ ràng, tốc độ chậm; chèn hiệu ứng làm nổi bật thao tác; có thể cần phóng to khung hình.
+- Nhóm 3 - Thực hành phần mềm (kG = 1,6): quay màn hình; thao tác trực tiếp trên phần mềm; dữ liệu mẫu; đồng bộ slide/phần thuyết trình - thao tác.
+- Nhóm 4 - Video tình huống/Thực hành, thực tập tại doanh nghiệp/Hiện trường (kG = 2,0): dựng tình huống phù hợp với nội dung bài giảng; có kịch bản phân vai; quay nhiều nhân vật; có thể cần nhiều góc quay; chỉnh màu, âm thanh.
+- Nhóm 5 - Thí nghiệm phòng lab (kG = 2,5): quay tại phòng thực hành; có thiết bị, dụng cụ; yêu cầu kỹ thuật cao, đảm bảo an toàn; có thể nhiều góc quay; hậu kỳ phức tạp.
+- Nhóm 6 - Thực hành quy trình nghề (kG = 3,0): quay thao tác kỹ thuật; có tiêu chuẩn quy trình; cần quay rõ từng bước/quay chậm; tính ứng dụng thực tế.
+- Nhóm 7 - Mô phỏng kỹ thuật số (kG = 4,0): dựng animation; mô phỏng hệ thống động; chèn đồ họa, lớp hình ảnh; hậu kỳ chuyên sâu.
+- Nhóm 8 - Bài giảng đáp ứng để tổ chức khóa học trực tuyến đại chúng mở (MOOC) (kG > 4, BGH phê duyệt): xây dựng theo tiêu chuẩn cao về nội dung, kỹ thuật và khả năng mở rộng, có thể triển khai quy mô lớn, sử dụng cho nhiều CTĐT hoặc phục vụ hợp tác, quảng bá, liên kết quốc tế; có phụ đề song ngữ.
+3. Thẩm định học liệu số
+a. Thành lập Hội đồng thẩm định học liệu số
+- Phòng QLĐT&ĐBCL trình Hiệu trưởng ra quyết định thành lập Hội đồng thẩm định HLS trên cơ sở đề xuất của Khoa/Viện chuyên môn.
+- Hội đồng thẩm định học liệu số bao gồm 03 thành viên:
++ 01 Chủ tịch Hội đồng: có trình độ Tiến sĩ, có chuyên môn phù hợp, có kinh nghiệm về xây dựng học liệu số.
++ 01 Ủy viên: có trình độ từ Thạc sĩ trở lên, có chuyên môn phù hợp, có kinh nghiệm về xây dựng HLS.
++ 01 Ủy viên, thư ký: Đại diện Phòng QLĐT&ĐBCL.
+b. Tổ chức thẩm định
+Hội đồng thẩm định HLS có trách nhiệm đánh giá mức độ đáp ứng yêu cầu về nội dung chuyên môn và chất lượng học liệu; xem xét sự đầy đủ và mức độ đáp ứng các yêu cầu cơ bản quy định tại Bảng 2; đồng thời hoàn thành Phiếu đánh giá học liệu theo mẫu tại Phụ lục 5.
+Tổ chuyên môn tổng hợp bộ hồ sơ HLS và các biên bản họp của tổ chuyên môn (theo Phụ lục 3), gửi về Thư ký Hội đồng thẩm định.
+Thư ký Hội đồng thẩm định gửi hồ sơ HLS tới các thành viên Hội đồng để nghiên cứu, đánh giá sơ bộ trước khi tổ chức họp thẩm định.
+Hội đồng thẩm định tổ chức họp thẩm định trong thời gian không sớm hơn 05 ngày làm việc và không muộn hơn 30 ngày kể từ khi Thư ký Hội đồng nhận đủ hồ sơ học liệu số. Hội đồng thẩm định hoàn thành biên bản họp theo mẫu tại Phụ lục 4 đồng thời hoàn thành Phiếu đánh giá học liệu theo mẫu tại Phụ lục 5.
+Bảng 2. Cấu trúc và yêu cầu tối thiểu của học liệu số cho một học phần
+- Đề cương chi tiết: phải đảm bảo đầy đủ các nội dung: (1) các thông tin chung; (2) giảng viên phụ trách, giảng dạy học phần (dự kiến); (3) mô tả tóm tắt nội dung học phần; (4) mục tiêu, chuẩn đầu ra của học phần; (5) nội dung học phần (mục lục theo chương và phân bổ thời gian); (6) hướng dẫn tổ chức dạy học: lịch trình học tập chi tiết theo từng giờ học, phương pháp triển khai, phương tiện tiến hành (bao gồm cả lịch gặp mặt trực tuyến để người học thảo luận với giảng viên và nhóm, giải đáp, thuyết trình); (7) đánh giá học phần: đánh giá trong quá trình học, giữa kỳ, cuối kỳ (bằng các hoạt động kiểm tra đánh giá trực tuyến); (8) tài liệu học tập: danh mục tài liệu chính và tham khảo, các bài giảng video, bộ câu hỏi trắc nghiệm trong mỗi bài giảng, câu hỏi ôn tập kết thúc chương, bài tập dành cho sinh viên; (9) điều kiện thực hiện học phần: điều kiện về cơ sở vật chất, những yêu cầu người học phải tuân thủ.
+- Bộ slide bài giảng: (1) thiết kế theo mẫu slide của Trường, tỷ lệ 16:9, font chữ không chân như Arial, Helvetica, Times New Roman… cỡ chữ tối thiểu tương đương Arial cỡ 18, độ tương phản màu nền, mẫu chữ, hình ảnh phù hợp; (2) slide mỗi bài học có tên học phần hoặc bài giảng, tên giảng viên/nhóm biên soạn, đơn vị, trang mục lục, mục tiêu, nội dung tóm tắt, các trang nội dung chi tiết, trang tổng kết và giới thiệu nhanh nội dung tiếp theo; (3) ngôn ngữ trình bày có thể bằng tiếng Việt/tiếng Anh; (4) số lượng slide phù hợp với nội dung và thời lượng, khuyến nghị tối thiểu 10 - 15 slides/giờ; (5) tài liệu/hình ảnh/tài nguyên tham khảo trên slide phải ghi trích dẫn nguồn đầy đủ.
+- Bộ tài liệu đọc của học phần: (1) chứa đựng nội dung các bài học trong toàn bộ học phần, giúp người học đọc thêm, tìm hiểu, nghiên cứu và tự học; (2) định dạng PDF (khuyến nghị font Times New Roman cỡ 13 hoặc 14, cách dòng 1,5 line, lề trái 2,5 cm, lề phải 1,5 cm, lề trên và dưới 2 cm), có thể minh hoạ bằng hình ảnh, đồ thị, bảng biểu, công thức; (3) số trang cho mỗi bài học phù hợp với nội dung truyền tải.
+- Bộ video (video bài giảng theo kịch bản dạy học; video hướng dẫn bài tập, thực hành, thí nghiệm nếu có): (1) yêu cầu kỹ thuật: hình ảnh HD 720p hoặc Full HD 1080p tỉ lệ 16:9, rõ nét, không lóa, hình ảnh trích dẫn tuân thủ sở hữu trí tuệ và chú thích nguồn; âm thanh Mp3 chất lượng 128Kbps hoặc 320Kbps, nghe rõ, không nhiễu; (2) thời lượng: mỗi giờ học online tối thiểu 01 video bài giảng, thời lượng 15 – 30 phút tương đương nội dung 1 giờ (50 phút) học trực tiếp; mỗi giờ học trực tiếp có thể thiết kế 1 đến 3 video (khuyến nghị mỗi video khoảng 15 phút), mỗi video gắn với một chủ đề kiến thức, khuyến nghị lồng ghép câu hỏi trắc nghiệm ngắn giữa các video; (3) lời thoại rõ ràng, tự nhiên, gắn kết với nội dung bài giảng, bằng tiếng Việt hoặc tiếng Anh tuỳ yêu cầu học phần.
+- Bộ câu hỏi (câu hỏi tương tác; câu hỏi kết thúc chương; câu hỏi đánh giá giữa kỳ, kết thúc học phần): (1) câu hỏi tương tác xen kẽ trong quá trình học, hình thức trắc nghiệm nhiều phương án, đúng - sai, tình huống hoặc câu hỏi gợi mở; tối thiểu 05 câu hỏi trắc nghiệm khách quan cho mỗi giờ học online; bắt buộc có phần gợi ý trả lời; (2) câu hỏi kiểm tra, đánh giá giữa kỳ và cuối kỳ phù hợp nội dung và chuẩn đầu ra, khách quan, công bằng, phân loại được trình độ; nếu dùng trắc nghiệm khách quan thì bài kiểm tra giữa kỳ tối thiểu 30 câu, bài cuối kỳ theo quy định về tổ chức thi kết thúc học phần; (3) bộ câu hỏi giữa kỳ và cuối kỳ sau thẩm định được lưu trữ, quản lý tập trung trong ngân hàng câu hỏi của Trường và được rà soát, cập nhật định kỳ.
+- Bộ bài tập và hướng dẫn làm bài tập cho từng chương (bản text và video nếu cần): (1) thiết kế giúp người học hiểu, vận dụng kiến thức, hình thành kỹ năng, đáp ứng chuẩn đầu ra; (2) số lượng phù hợp, đáp ứng các cấp độ năng lực từ thấp đến cao; (3) phải có gợi ý làm bài hoặc bài giải mẫu, hướng dẫn giải (nếu cần).
+- Bộ tài liệu học tập, tài liệu tham khảo được số hoá (PDF, video, đường link): (1) tài liệu học tập cung cấp bản điện tử định dạng PDF; (2) tài liệu tham khảo giúp người học mở rộng kiến thức liên quan; (3) có thể cung cấp tên giáo trình, danh mục tài liệu hoặc đường link nhưng phải đủ thông tin để dễ tìm kiếm, tiếp cận.
+- Bộ công cụ số hỗ trợ học tập (dữ liệu mẫu, thí nghiệm số, mô phỏng VR, bộ phần mềm, app) kèm theo khóa học (nếu có).
+4. Phê duyệt gói học liệu số và đăng tải lên hệ thống đào tạo trực tuyến
+Căn cứ vào kết quả của Hội đồng thẩm định, Hiệu trưởng chủ trì phê duyệt và cho phép triển khai học liệu số của học phần lên hệ thống ĐTTT.
+5. Khi triển khai thực hiện, Trường ưu tiên thành lập Tổ chuyên môn nội bộ để xây dựng học liệu số phù hợp với từng phương thức ĐTTT.
+Trường hợp không đủ nguồn lực hoặc chuyên môn chưa phù hợp, học liệu số có thể được xây dựng với sự hợp tác của các đối tác, hoặc có thể dưới các hình thức nhập khẩu, mua bản quyền, sử dụng học liệu có sẵn,... Trong trường hợp này, Phòng QLĐT&ĐBCL chủ trì phối hợp với các Khoa/Viện chuyên môn thực hiện quy trình thẩm định, phê duyệt đảm bảo chất lượng và không vi phạm bản quyền.
+Chương V - QUYỀN VÀ TRÁCH NHIỆM CỦA NGƯỜI DẠY VÀ NGƯỜI HỌC
+Điều 20. Quyền và trách nhiệm của người dạy
+1. Được hưởng các quyền lợi chung, chế độ và phụ cấp đối với người dạy theo quy định của Trường.
+2. Được tạo điều kiện thực tập, bồi dưỡng nâng cao trình độ chuyên môn và kỹ năng nghề nghiệp đặc thù của ĐTTT.
+3. Giảng dạy, kiểm tra, đánh giá kết quả học tập một cách khách quan và theo đúng các quy chế, quy định của Trường.
+4. Tham gia xây dựng CTĐT, đề cương chi tiết học phần, ngân hàng đề thi, xây dựng học liệu phục vụ giảng dạy; nghiên cứu, cải tiến và đưa vào ứng dụng trong thực tiễn những phương pháp giảng dạy, thi, kiểm tra, đánh giá trong ĐTTT có hiệu quả.
+5. Thường xuyên theo dõi, kiểm tra quá trình học tập của người học trên hệ thống để kịp thời đôn đốc và hỗ trợ. Giải đáp những thắc mắc, bài làm của người học trên hệ thống ĐTTT để đảm bảo tiến độ học tập, tạo môi trường học tập thân thiện và tăng cường sự tương tác, kết nối thông tin giữa người dạy và người học trong quá trình giảng dạy và học tập.
+6. Khuyến khích người dạy nghiên cứu, hướng dẫn người học sử dụng các công cụ AI như một phương tiện hỗ trợ học tập, nghiên cứu và sáng tạo một cách tích cực. Giảng viên có quyền quy định mức độ và phạm vi sử dụng AI trong từng nhiệm vụ học tập cụ thể, đồng thời có trách nhiệm hướng dẫn người học tuân thủ các nguyên tắc đạo đức học thuật khi sử dụng công cụ này.
+Điều 21. Quyền và trách nhiệm của người học
+1. Được cung cấp đầy đủ thông tin về kế hoạch đào tạo, quy định về ĐTTT và các quy định liên quan khác của Trường.
+2. Được cung cấp các loại tài khoản, tiếp cận khai thác hệ thống ĐTTT và được giải đáp thắc mắc qua các kênh trao đổi thông tin mà Trường quy định.
+3. Thực hiện lịch trình học tập; nộp lệ phí và học phí theo quy định của Trường.
+4. Phải tự bảo vệ các tài khoản được Trường cung cấp, chịu trách nhiệm về các thông tin mà người học đưa lên các hệ thống được Trường cấp quyền truy cập.
+5. Phải hoàn thành các nhiệm vụ do người dạy giao trên hệ thống ĐTTT theo đúng thời hạn quy định.
+6. Tuân thủ pháp luật về sở hữu trí tuệ và các quy định, nội quy của Trường trong quá trình học tập trực tuyến.
+7. Chủ động liên lạc với người dạy, cán bộ hỗ trợ học tập, cán bộ quản lý trong quá trình học để được hướng dẫn, hỗ trợ.
+Chương VI - NHỮNG HÀNH VI BỊ CẤM VÀ XỬ LÝ VI PHẠM
+Điều 22. Những hành vi bị cấm trong đào tạo trực tuyến
+1. Các hành vi xâm phạm an toàn, an ninh hệ thống và dữ liệu đào tạo:
+a. Thực hiện việc xâm nhập trái phép, chiếm quyền điều khiển hệ thống thông tin; tạo lập, cài đặt, phát tán các phần mềm độc hại, virus máy tính nhằm phá hoại, làm gián đoạn hoặc đình trệ hoạt động của hệ thống ĐTTT và phần mềm quản lý học tập (LMS).
+b. Chia sẻ, chuyển nhượng hoặc mua bán tài khoản, mật khẩu truy cập hệ thống ĐTTT do Nhà trường cung cấp cho các cá nhân hoặc tổ chức bên ngoài Trường dưới mọi hình thức.
+c. Thu thập, sử dụng, phát tán trái phép dữ liệu cá nhân, bí mật đời tư, hình ảnh, giọng nói hoặc nhật ký truy cập (log hệ thống) của người dạy và người học khác khi chưa được sự đồng ý của chủ thể dữ liệu.
+2. Các hành vi gian lận trong học tập, kiểm tra và khảo thí trực tuyến:
+a. Giả mạo danh tính, sử dụng tài khoản của người khác hoặc cho người khác sử dụng tài khoản của mình để học hộ, làm bài tập hộ, thi hộ hoặc thực hiện các hành vi gian lận nhằm làm sai lệch kết quả đánh giá.
+b. Sử dụng các công cụ trí tuệ nhân tạo (AI), phần mềm tự động hoặc các thiết bị công nghệ hỗ trợ để thực hiện bài thi, bài kiểm tra trực tuyến trái với quy định của giảng viên hoặc yêu cầu cụ thể của từng học phần.
+c. Can thiệp trái phép vào cơ sở dữ liệu điểm, nhật ký học tập (logs) hoặc lịch sử tương tác trên hệ thống để ngụy tạo minh chứng học tập hoặc thay đổi kết quả đánh giá.
+3. Các hành vi vi phạm bản quyền và sở hữu trí tuệ của Nhà trường:
+a. Thực hiện việc ghi hình, chụp màn hình, lưu trữ trái phép các buổi học trực tuyến hoặc kịch bản giảng dạy; sao chép, cắt ghép, biên tập làm thay đổi nội dung nguyên bản của học liệu số.
+b. Phát tán, đăng tải trái phép bài giảng video, học liệu số, ngân hàng câu hỏi thi hoặc hình ảnh cá nhân của giảng viên và sinh viên lên mạng xã hội, các diễn đàn trực tuyến hoặc các phương tiện truyền thông khi chưa có văn bản đồng ý của Hiệu trưởng.
+4. Các hành vi vi phạm chuẩn mực đạo đức, văn hóa học đường trên môi trường số:
+a. Sử dụng ngôn ngữ hoặc có hành vi gây rối, xúc phạm danh dự, uy tín, nhân phẩm của giảng viên, cán bộ quản lý và người học khác trên các diễn đàn thảo luận, phòng học ảo hoặc các không gian tương tác số của Trường.
+b. Cố ý đăng tải, chia sẻ các thông tin sai sự thật, bịa đặt gây hoang mang trong cộng đồng người học hoặc có các hành vi bôi nhọ, làm ảnh hưởng tiêu cực đến uy tín và hình ảnh của Nhà trường trên không gian mạng.
+5. Các hành vi vi phạm pháp luật khác: Nghiêm cấm lợi dụng hệ thống ĐTTT của Trường để tuyên truyền các nội dung chống phá Nhà nước, kích động bạo lực, truyền bá tư tưởng phản động hoặc các hành vi vi phạm Luật An ninh mạng và các quy định pháp luật hiện hành khác của Nhà nước.
+Điều 23. Xử lý vi phạm
+1. Cá nhân có hành vi vi phạm quy định tại Điều 22 Quy định này thì tùy theo tính chất, mức độ vi phạm sẽ bị Trường xử lý vi phạm hoặc bị truy cứu trách nhiệm hình sự, thiệt hại thì phải bồi thường theo quy định của pháp luật.
+2. Các vi phạm, tùy theo mức độ, sẽ bị xử lý theo quy định của Trường và các quy định pháp luật hiện hành.
+Chương VII - KIỂM TRA, GIÁM SÁT VÀ CHẾ ĐỘ BÁO CÁO, LƯU TRỮ
+Điều 24. Kiểm tra, giám sát
+Ban Thanh tra - Pháp chế thực hiện kiểm tra, giám sát các đơn vị, cá nhân liên quan trong việc thực hiện Quy định này; kiểm tra, giám sát việc thực hiện kế hoạch giảng dạy và học tập trực tuyến nhằm đảm bảo chất lượng ĐTTT.
+Điều 25. Chế độ báo cáo, lưu trữ
+1. Các đơn vị chịu trách nhiệm đầu mối theo chức năng, nhiệm vụ của đơn vị báo cáo các cơ quan quản lý cấp trên và Trường tình hình ĐTTT khi được yêu cầu.
+2. Trong quá trình tổ chức triển khai ĐTTT, nếu có những vấn đề khó khăn, vướng mắc hoặc cần thiết cập nhật phát triển công nghệ, các đơn vị báo cáo, đề xuất Ban Giám hiệu để kịp thời giải quyết.
+3. Các đơn vị chịu trách nhiệm lưu trữ cơ sở dữ liệu liên quan đến tổ chức ĐTTT theo quy định hiện hành. Đặc biệt, dữ liệu nhật ký hệ thống (log), lịch sử tương tác và kết quả thi trực tuyến phải được Phòng Hệ thống thông tin lưu trữ dự phòng tối thiểu 05 năm để phục vụ công tác thanh tra, hậu kiểm.
+Chương VIII - TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH
+Điều 26. Trách nhiệm của các đơn vị liên quan
+1. Phòng Quản lý đào tạo và Đảm bảo chất lượng
+a. Lập kế hoạch xây dựng học liệu ĐTTT và tổ chức ĐTTT và trên cơ sở đề xuất của các Khoa/Viện chuyên môn.
+b. Tổ chức đăng ký học tập, quản lý và tổ chức đào tạo cho người học theo hình thức ĐTTT.
+c. Phối hợp với Phòng Hệ thống thông tin tổ chức đào tạo, bồi dưỡng, tập huấn, hướng dẫn các kiến thức và kỹ năng cần thiết cho người dùng trong sử dụng các hệ thống công nghệ thông tin phục vụ ĐTTT; hướng dẫn người học sử dụng internet an toàn, trách nhiệm và phòng tránh các tác động tiêu cực từ internet trong quá trình học tập trực tuyến.
+d. Chủ trì xây dựng kế hoạch, bộ công cụ và phối hợp với các Phòng/Ban/ Khoa/Viện tổ chức lấy ý kiến phản hồi của người dạy và người học theo quy định.
+e. Tổng kết, báo cáo kết quả tổ chức thực hiện ĐTTT.
+f. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+2. Khoa/Viện chuyên môn
+a. Xây dựng, rà soát và hoàn thiện học liệu ĐTTT theo kế hoạch của Trường; chịu trách nhiệm về nội dung học liệu ĐTTT do đơn vị biên soạn.
+b. Phân công giảng viên giảng dạy trực tuyến theo đúng kế hoạch của Trường.
+c. Phối hợp với các đơn vị liên quan trong kiểm duyệt, đánh giá, cập nhật để nâng cao chất lượng của học liệu ĐTTT;
+d. Phối hợp với Phòng QLĐT&ĐBCL tổ chức lấy ý kiến phản hồi của người dạy và người học theo quy định.
+e. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+3. Phòng Hệ thống thông tin
+a. Duy trì, phát triển, đảm bảo an ninh an toàn dữ liệu và cung cấp hạ tầng công nghệ thông tin (cả phần cứng, phần mềm và các dịch vụ) phục vụ cho ĐTTT;
+b. Thực hiện cấp tài khoản cho đúng đối tượng người dùng để truy cập và sử dụng hệ thống ĐTTT; đồng bộ dữ liệu liên quan giữa phần mềm quản lý học tập với các phần mềm khác trong hệ thống ĐTTT;
+c. Hỗ trợ kỹ thuật cho các Khoa/Viện trong sản xuất học liệu ĐTTT; quản lý và vận hành học liệu trên hệ thống ĐTTT;
+d. Có giải pháp đánh giá, kiểm soát để thường xuyên cập nhật công nghệ tiên tiến, nâng cấp hạ tầng kỹ thuật đảm bảo cho triển khai ĐTTT;
+e. Hỗ trợ kỹ thuật và xử lý sự cố cho người dùng trong vận hành ĐTTT;
+f. Đảm bảo kỹ thuật, dữ liệu và vận hành hệ thống thi trắc nghiệm trên máy tính trong tổ chức thi;
+g. Thực hiện sao lưu và lưu trữ: các dữ liệu, các báo cáo hoạt động giảng dạy và học tập trên phần mềm quản lý học tập và dữ liệu thi trắc nghiệm trên máy tính.
+h. Tổ chức đào tạo, bồi dưỡng, tập huấn, hướng dẫn các kiến thức, kỹ năng cần thiết cho giảng viên, cán bộ hỗ trợ học tập, cán bộ quản lý trong sử dụng các hệ thống công nghệ thông tin phục vụ ĐTTT; hướng dẫn người học sử dụng internet an toàn, trách nhiệm và phòng tránh các tác động tiêu cực từ internet trong quá trình học tập qua mạng.
+i. Chủ trì, phối hợp với các đơn vị triển khai các biện pháp kỹ thuật và tổ chức để bảo vệ dữ liệu cá nhân của giảng viên và sinh viên trên hệ thống theo quy định của pháp luật; thông báo kịp thời cho Ban Giám hiệu và các bên liên quan khi xảy ra sự cố lộ, lọt dữ liệu.
+k. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+4. Phòng Công tác sinh viên
+a. Thực hiện công tác khen thưởng, kỷ luật, xử lý vi phạm của người học và các hoạt động khác liên quan đến chế độ, chính sách, thủ tục cho sinh viên trong ĐTTT theo quy định về công tác sinh viên của Bộ Giáo dục và Đào tạo và của Trường.
+b. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+5. Phòng Khảo thí
+a. Chủ trì xây dựng và tổ chức thực hiện các quy định về kiểm tra, đánh giá kết quả học tập đối với các học phần được tổ chức theo hình thức đào tạo trực tuyến theo quy định của Bộ Giáo dục và Đào tạo và của Trường.
+b. Phối hợp với Phòng Hệ thống thông tin và các đơn vị liên quan trong việc xây dựng, triển khai và vận hành hệ thống kiểm tra, đánh giá trực tuyến phục vụ hoạt động đào tạo của Trường.
+c. Phối hợp với các đơn vị liên quan tổ chức các kỳ kiểm tra, thi trực tuyến theo quy định; đảm bảo tính khách quan, công bằng và minh bạch trong đánh giá kết quả học tập của người học.
+d. Quản lý, phát triển và sử dụng ngân hàng câu hỏi phục vụ kiểm tra, đánh giá trong đào tạo trực tuyến theo quy định của Trường.
+e. Theo dõi, tổng hợp và phân tích kết quả kiểm tra, đánh giá trong đào tạo trực tuyến; đề xuất các giải pháp nâng cao chất lượng kiểm tra, đánh giá kết quả học tập của người học.
+f. Phối hợp với các đơn vị liên quan trong việc kiểm tra, giám sát và xử lý các hành vi vi phạm quy định về kiểm tra, đánh giá trong môi trường đào tạo trực tuyến.
+g. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+6. Ban Thanh tra - Pháp chế
+a. Kiểm tra, giám sát các hoạt động liên quan đến ĐTTT đảm bảo đúng các quy chế, quy định của Bộ GD và ĐT, của Trường và các quy định pháp luật hiện hành khác;
+b. Tham mưu cho Ban Giám hiệu xử lý các hành vi vi phạm của các đối tượng liên quan theo Quy định này.
+c. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+7. Thư viện
+a. Cung cấp cho người học giáo trình, các tài liệu tham khảo, học liệu bổ trợ dưới dạng tài liệu in ấn hoặc tài liệu điện tử thông qua hệ thống thư viện điện tử phục vụ cho ĐTTT.
+b. Thực hiện các hoạt động khác có liên quan theo chức năng, nhiệm vụ của đơn vị.
+8. Các đơn vị khác: Thực hiện các công việc thuộc chức năng, nhiệm vụ của đơn vị liên quan đến ĐTTT.
+Điều 27. Hiệu lực thi hành
+1. Quy định này có hiệu lực kể từ ngày ký.
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh, các đơn vị có liên quan theo chức năng và nhiệm vụ được phân công cần báo cáo Ban Giám hiệu để xem xét, giải quyết./.
