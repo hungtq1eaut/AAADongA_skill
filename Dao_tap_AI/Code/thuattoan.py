@@ -57,7 +57,7 @@ def is_stable(matching, man_pref, woman_pref):
 
 if __name__ == "__main__":
     # Ví dụ thứ hai trong Chương 1: m=0, m'=1, w=0, w'=1
-    # m thích w hơn w'; m' thích w' hơn w; w thích m' hơn m; w' thích m hơn m'
+    # m thích w hơn w'; m' thích w' hơn w; w thích m'pyth hơn m; w' thích m hơn m'
     man_pref = [[0, 1], [1, 0]]
     woman_pref = [[1, 0], [0, 1]]
     S = gale_shapley(man_pref, woman_pref)
