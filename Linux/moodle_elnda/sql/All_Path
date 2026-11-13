@@ -3,6 +3,9 @@
 /var/www/elnda_eaut_e_usr/data/www/elnda.eaut.edu.vn/config.php 
 
 
+## dang nhap data
+mysql -h localhost -P 3306 -u moodle -p moodlelive
+
 &&&& thumuc upload-backup
 /var/www/elnda_eaut_e_usr/data/www/moodledata/Backup/
 

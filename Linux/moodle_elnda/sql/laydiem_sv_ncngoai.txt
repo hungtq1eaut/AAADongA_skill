@@ -1,0 +1,19 @@
+SELECT
+    u.id AS userid,
+    u.username,
+    q.name AS ten_bai_kiem_tra,
+    qa.id AS attempt_id,
+    qa.preview,
+    qa.state,
+    qa.sumgrades AS diem_tho,
+    q.sumgrades AS tong_diem_tho,
+    q.grade AS thang_diem,
+    ROUND(
+        qa.sumgrades * q.grade / NULLIF(q.sumgrades, 0),
+        2
+    ) AS diem_quy_doi
+FROM mdl_quiz_attempts qa
+JOIN mdl_user u ON u.id = qa.userid
+JOIN mdl_quiz q ON q.id = qa.quiz
+WHERE u.username = '26005002@eaut.edu.vn'
+ORDER BY qa.timemodified DESC;
